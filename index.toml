@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/doodlemon-modpack.iml"
+hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "68f1b3659bb9f5abc9efe0ff01c5e03bcde5c6c0505f645b82188bf3b7f0e59d"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "0d07b8a6b7e161c553c82d0be2a47b362f04cf95a815a304673285bf2e8f52c5"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
+
+[[files]]
 file = ".idea/workspace.xml"
-hash = "6a8ce6656f02a6d2240ca6294f838420d2ab19991627d7f1340980406d7c70ba"
+hash = "4b3ae19da18cbe8380bb413dae87f68f68c6cb0c306c8b13195c547f8dafa0cd"
 
 [[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
@@ -677,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "049147716c3d1e95909a248444e63e33a70189761aa13b0e5e3afe1f02ea72cf"
+hash = "1574168ba53c100534a211251f8fae2471ed142affb12ce839598f98d3331358"
 metafile = true
 
 [[files]]
