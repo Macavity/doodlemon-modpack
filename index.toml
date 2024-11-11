@@ -18,7 +18,7 @@ hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "4b3ae19da18cbe8380bb413dae87f68f68c6cb0c306c8b13195c547f8dafa0cd"
+hash = "9e39a72a996512c3c25eb92d1c6dcb2b6c1cc6b78ea1b04b832e7a21dc6fc235"
 
 [[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
@@ -146,7 +146,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "042fbc7e9be8b82316bb7d270d553586d828554a1f4c802e81b922d710289edf"
+hash = "e6a14a969aaad3ef6301740e886e631666e72cd6d80fce15ea853c4a8c71c54d"
 
 [[files]]
 file = "config/fancymenu/slideshows/cm_showcase/images/Busted.png"
@@ -242,11 +242,23 @@ hash = "911fa605af5c2ee23b6fd65e5fe5daa23b6369b3ac16a78e35578776e2e9c04e"
 
 [[files]]
 file = "config/invmove/unrecognized.json"
-hash = "0e0dfb11bf091cd8a51c4b1e87ab370e383a50429aaf597250660c8310d08bff"
+hash = "563ac0f219975bb05cebac3c5157618c3b0a422e8becce827f8bef8bccde9d71"
 
 [[files]]
 file = "config/invmove/vanilla.json"
-hash = "336583422368f9b6b7f9ac83c60f4c69eb1545f251430b17ed7ea6c1ddec89e6"
+hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "f4745940fb0e1e7682814451bd9e2971947d159ec3bbc9a0ebae32f770e06949"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "843f13c7106c7f8b1eeffe203771c93598521c271d508e9143570bf50dd87d07"
 
 [[files]]
 file = "config/yosbr/config/advancementinfo.json5"
@@ -582,7 +594,7 @@ hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a0cc06ad396c44504f0899bfdcdd0be91ed8b8a0df46b3c6a67326b63337efb4"
+hash = "fe98a4826e9e060bc5d698031c697776abf65a2ae8e66f56f5e74abc3b374d46"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
@@ -1080,6 +1092,11 @@ hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "da6cacd85d1b3dd1b058aac6934094901fe802b16370f5da8bab73da8ea20c78"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "bb5a80b8ca7024c2471e3023a8fe1da5aa9728a7e4c44334fd1d1073b8a4d115"
 metafile = true
@@ -1087,11 +1104,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 hash = "02d0359279f262ec0d69e89c70ed76414ba7a09e1b40cae2d43f736644cc8319"
-metafile = true
-
-[[files]]
-file = "resourcepacks/motschens-better-leaves.pw.toml"
-hash = "98f2f644c81d6eafc1ec6fa8cb5981f96d4146bf54fcbaac3e228707173efc33"
 metafile = true
 
 [[files]]

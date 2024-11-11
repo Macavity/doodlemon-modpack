@@ -1,12 +1,22 @@
 {
   "allowMovement": {
-    "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
-    "net.minecraft.class_433": false,
-    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": false,
-    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
     "com.cobblemon.mod.common.client.gui.battle.BattleGUI": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.startselection.StarterSelectionScreen": true,
+    "com.rafacasari.mod.cobbledex.client.gui.CobbledexCollectionGUI": true,
+    "com.rafacasari.mod.cobbledex.client.gui.CobbledexGUI": true,
+    "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": false,
     "me.shedaniel.clothconfig2.gui.ClothConfigScreen": false,
-    "net.minecraft.class_434": false
+    "net.minecraft.class_433": false,
+    "net.minecraft.class_434": false,
+    "net.minecraft.class_5375": false,
+    "net.minecraft.class_5522": false,
+    "xaero.common.gui.GuiMinimapMain": false,
+    "xaero.common.gui.GuiEntityRadarSettings": false,
+    "xaero.map.gui.GuiMap": false
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
