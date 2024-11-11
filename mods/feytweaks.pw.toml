@@ -1,13 +1,13 @@
 name = "FeyTweaks"
 filename = "feytweaks-1.20-1.2.7.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "f94195f90cc30a33f4e496ce0070f44711d93f75"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Wa72oW2W/versions/vaw7Vb8R/feytweaks-1.20-1.2.7.jar"
+hash-format = "sha512"
+hash = "4cff28d0bc4c95fd9bf9d5929ad59332260c31905417e033ba2bb3af68ccc0411cfce562d302c224a530de0bc8b0d8b4e2f5da2bb550e929f394cd2c10a3061d"
 
 [update]
-[update.curseforge]
-file-id = 4631442
-project-id = 663213
+[update.modrinth]
+mod-id = "Wa72oW2W"
+version = "vaw7Vb8R"

@@ -1,0 +1,13 @@
+name = "MoreCobblemonTweaks"
+filename = "MoreCobblemonTweaks-0.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5KWlJ2HC/versions/ZND5sLaH/MoreCobblemonTweaks-0.7.0.jar"
+hash-format = "sha512"
+hash = "46640feb604cab78a0ddb9dc566432e84e773d404f1f8f9b2d7b215c4f6d01e8ae8fdea135a6dbc2c355996e3ffdcc535f0be75c15be3cebb9b780803a61198f"
+
+[update]
+[update.modrinth]
+mod-id = "5KWlJ2HC"
+version = "ZND5sLaH"
