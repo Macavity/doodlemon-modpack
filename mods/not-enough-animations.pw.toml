@@ -1,13 +1,13 @@
 name = "Not Enough Animations"
-filename = "notenoughanimations-fabric-1.7.3-mc1.20.1.jar"
-side = "both"
+filename = "notenoughanimations-fabric-1.8.0-mc1.20.1.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "653d367f7a94d05b6d124a074c0378dc7bc286f9"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/RPp6Ydvd/notenoughanimations-fabric-1.8.0-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "4621a37e3e56da053e3a94da9f7a30ca9449eb8dad60ebcce296318f4b8d06894b5f1feef26d8e6a0bb90e8e2fa5115f246113a0c0ef5c19758997896a9748fb"
 
 [update]
-[update.curseforge]
-file-id = 5307872
-project-id = 433760
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "RPp6Ydvd"
