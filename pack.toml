@@ -1,12 +1,12 @@
-name = "Doodlemon Modpack"
+name = "Doodlemon v0.7"
 author = "Macavity"
-version = "0.6.0"
+version = "0.7.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e5b1871de47bd90daa06d12123f7f6a043143d8379e63a81828a37e302462923"
+hash = "7059214e44cadb2cfa0c6fc3a5e0d1d62212619c1acaf535942292df7cd464bb"
 
 [versions]
 fabric = "0.15.11"

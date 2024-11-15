@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/doodlemon-modpack.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "68f1b3659bb9f5abc9efe0ff01c5e03bcde5c6c0505f645b82188bf3b7f0e59d"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "0d07b8a6b7e161c553c82d0be2a47b362f04cf95a815a304673285bf2e8f52c5"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "9e39a72a996512c3c25eb92d1c6dcb2b6c1cc6b78ea1b04b832e7a21dc6fc235"
-
-[[files]]
 file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
 hash = "450ac835d8fe5ba77fc39e752f33c6494692aa8736d47fbdde6edc2d05c3e0e9"
 
@@ -247,6 +227,10 @@ hash = "563ac0f219975bb05cebac3c5157618c3b0a422e8becce827f8bef8bccde9d71"
 [[files]]
 file = "config/invmove/vanilla.json"
 hash = "e2c5633901520e37f24995b2fd0f619af5cdb3fb6acd70e4a5ddd0f8f6c2a352"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "4ac8fbef796e798564b08ac1de475fea9d057c5afe6679297f57cc078555696f"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -595,6 +579,10 @@ hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "fe98a4826e9e060bc5d698031c697776abf65a2ae8e66f56f5e74abc3b374d46"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "e465414a4f8b20b0c85751c06f7cd051df4de8b9b08cfea0bf2610f2f0bf5aac"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
