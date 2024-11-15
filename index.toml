@@ -578,7 +578,7 @@ hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fe98a4826e9e060bc5d698031c697776abf65a2ae8e66f56f5e74abc3b374d46"
+hash = "286081cc944bc24ec99d4bb34ba379360d93f7200834e2909186844371af047a"
 
 [[files]]
 file = "config/yosbr/servers.dat"
