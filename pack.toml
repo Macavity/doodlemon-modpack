@@ -1,12 +1,12 @@
-name = "Doodlemon v0.8"
+name = "Doodlemon v0.9"
 author = "Macavity"
-version = "0.8.0"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a46c406d481157b7cef41feacf7de9fd6304814121f361d3a09e1d1bdc6600ed"
+hash = "6e6aba7a450de52728dd9590d23a2c3518d204697d8e6139fafe2271cf04b25f"
 
 [versions]
 fabric = "0.15.11"

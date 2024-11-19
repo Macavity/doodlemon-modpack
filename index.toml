@@ -1040,6 +1040,11 @@ hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
 
 [[files]]
+file = "mods/trashslot.pw.toml"
+hash = "293b366ae43bad802c0b2e0a3876122a816030635944141295bd2c30fb9eb9f1"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "4aa0c90cec84b5b5b010f33a991a04eeb68d05643d34fe510d19ff12b780777a"
 metafile = true
